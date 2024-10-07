@@ -1,0 +1,9 @@
+/Users/overlordhippo/projects/gameore/ore-app/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-1fe2cd9758539b72.rmeta: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/overlordhippo/projects/gameore/ore-app/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-1fe2cd9758539b72.rlib: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/overlordhippo/projects/gameore/ore-app/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-1fe2cd9758539b72.d: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs:
