@@ -1,4 +1,4 @@
-# ORE app
+# GameORE app
 
 Game. Mine. Create.
 
