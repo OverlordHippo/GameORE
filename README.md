@@ -1,6 +1,6 @@
 # ORE app
 
-Web app for ORE cryptocurrency mining.
+Game. Mine. Create.
 
 ## Running locally
 
