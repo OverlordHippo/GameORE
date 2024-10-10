@@ -1,0 +1,10 @@
+/Users/overlordhippo/Documents/GitHub/GameORE/target/wasm32-unknown-unknown/release/deps/libgloo_storage-832356081a3141b1.rmeta: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/errors.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/local_storage.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/session_storage.rs
+
+/Users/overlordhippo/Documents/GitHub/GameORE/target/wasm32-unknown-unknown/release/deps/libgloo_storage-832356081a3141b1.rlib: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/errors.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/local_storage.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/session_storage.rs
+
+/Users/overlordhippo/Documents/GitHub/GameORE/target/wasm32-unknown-unknown/release/deps/gloo_storage-832356081a3141b1.d: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/errors.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/local_storage.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/session_storage.rs
+
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/lib.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/errors.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/local_storage.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.3.0/src/session_storage.rs:

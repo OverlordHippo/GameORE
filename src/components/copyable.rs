@@ -1,4 +1,5 @@
 use dioxus::prelude::*;
+use web_sys::Clipboard;
 
 use crate::components::CopyIcon;
 
@@ -11,7 +12,8 @@ pub fn Copyable(
 ) -> Element {
     let mut solid = use_signal(|| false);
     let window = web_sys::window().expect("window");
-    let clipboard = window.navigator().clipboard();
+    let navigator = window.navigator();
+    let clipboard: Option<Clipboard> = Some(navigator.clipboard());
 
     let _ = use_resource(move || async move {
         if *solid.read() {
@@ -20,16 +22,20 @@ pub fn Copyable(
         }
     });
 
-    let class = class.unwrap_or("".to_string());
+    let class = class.unwrap_or_default();
+
+    let mut copy_to_clipboard = move |clipboard: &Clipboard| {
+        let _ = clipboard.write_text(&value);
+        solid.set(true);
+    };
 
     rsx! {
         if implicit.unwrap_or(false) {
             button {
                 class: "flex max-w-full shrink-0 p-2 rounded transition-colors hover-100 active-200 {class}",
-                onclick: move |_e| {
-                    if let Some(clipboard) = clipboard.clone() {
-                        let _ = clipboard.write_text(value.as_str());
-                        solid.set(true);
+                onclick: move |_| {
+                    if let Some(ref clipboard) = clipboard {
+                        copy_to_clipboard(clipboard);
                     }
                 },
                 {children}
@@ -39,10 +45,9 @@ pub fn Copyable(
                 class: "flex flex-row gap-1 justify-end max-w-full {class}",
                 button {
                     class: "flex shrink-0 p-2 rounded transition-colors hover-100 active-200",
-                    onclick: move |_e| {
-                        if let Some(clipboard) = clipboard.clone() {
-                            let _ = clipboard.write_text(value.as_str());
-                            solid.set(true);
+                    onclick: move |_| {
+                        if let Some(ref clipboard) = clipboard {
+                            copy_to_clipboard(clipboard);
                         }
                     },
                     CopyIcon {

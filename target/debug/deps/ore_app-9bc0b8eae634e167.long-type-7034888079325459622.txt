@@ -1,1 +1,0 @@
-fn({type error}) -> Result<dioxus::prelude::VNode, RenderError> {activity::Activity}
