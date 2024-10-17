@@ -1,0 +1,10 @@
+/Users/overlordhippo/Documents/GitHub/GameORE/target/release/deps/libcopypasta-0893a3859d691240.rmeta: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/osx_clipboard.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs
+
+/Users/overlordhippo/Documents/GitHub/GameORE/target/release/deps/libcopypasta-0893a3859d691240.rlib: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/osx_clipboard.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs
+
+/Users/overlordhippo/Documents/GitHub/GameORE/target/release/deps/copypasta-0893a3859d691240.d: /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/osx_clipboard.rs /Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs
+
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/osx_clipboard.rs:
+/Users/overlordhippo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs:
