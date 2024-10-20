@@ -35,8 +35,8 @@
 <script src="/worker.js"></script>
 <script src="/wallet.js"></script>
 <script type="module">
-    import init from "/./assets/dioxus/ORE.js";
-    init("/./assets/dioxus/ORE_bg.wasm").then(wasm => {
+    import init from "/./assets/dioxus/GameORE.js";
+    init("/./assets/dioxus/GameORE_bg.wasm").then(wasm => {
       if (wasm.__wbindgen_start == undefined) {
         wasm.main();
       }
